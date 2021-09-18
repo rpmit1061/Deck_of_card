@@ -2,7 +2,7 @@
  Python app to represent a standard deck of 52 playing cards. The app have the capability to track the 52 cards, a mechanism to deal cards, and a mechanism to shuffle the deck of card. 
 
 # Getting  started
-    $ https://github.com/rpmit1061/Deck_of_card.git
+    $ git clone https://github.com/rpmit1061/Deck_of_card.git
     $ cd Deck_of_card
     $ virtualenv venv
     $ .venv/bin/activate
